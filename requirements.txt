@@ -1,0 +1,14 @@
+torch
+transformers
+datasets
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+evaluate
+accelerate
+tqdm
+scipy
+xgboost
+imbalanced-learn
